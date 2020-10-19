@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8dde36fe6a274f3c7c9d",
+    "revision": "06eea8cef5318c843f57",
     "url": "/css/app.dbf95e7f.css"
   },
   {
@@ -504,12 +504,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/С500BRC.a9ef270c.png"
   },
   {
-    "revision": "bcb93c1bb4effba6101e55cbf4529a8e",
+    "revision": "3aa1e9e10a0f4987064d00e8ca2231ad",
     "url": "/index.html"
   },
   {
-    "revision": "8dde36fe6a274f3c7c9d",
-    "url": "/js/app.c64a55e3.js"
+    "revision": "06eea8cef5318c843f57",
+    "url": "/js/app.95264bcc.js"
   },
   {
     "revision": "60c4572cb66cbe6ee214",
@@ -532,8 +532,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-403b0a99.c5f40fce.js"
   },
   {
-    "revision": "817035813842ca3d67da",
-    "url": "/js/chunk-6ae1cbe0.4f3c8708.js"
+    "revision": "adb8abac7a5dfb24cd5f",
+    "url": "/js/chunk-6ae1cbe0.e9afab24.js"
   },
   {
     "revision": "54e1eae4079bdc99acce",
