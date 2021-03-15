@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/act.pdf"
   },
   {
-    "revision": "271f2da927c8f26d6304",
-    "url": "/css/app.ceb67384.css"
+    "revision": "5e222b981314fd934901",
+    "url": "/css/app.11cd8bdc.css"
   },
   {
     "revision": "97ef044aac5a1747a280",
@@ -508,12 +508,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/С500BRC.a9ef270c.png"
   },
   {
-    "revision": "b97ee8a503f2360ce3612b3ecaf46b6e",
+    "revision": "bdc0c03e72216735ad3b9e9735ed6553",
     "url": "/index.html"
   },
   {
-    "revision": "271f2da927c8f26d6304",
-    "url": "/js/app.353b9129.js"
+    "revision": "5e222b981314fd934901",
+    "url": "/js/app.495d8194.js"
   },
   {
     "revision": "db88d660c3e5bcf3a215",
